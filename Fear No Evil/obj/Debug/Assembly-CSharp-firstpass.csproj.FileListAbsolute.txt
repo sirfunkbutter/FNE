@@ -1,0 +1,52 @@
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Aaron\Desktop\Fear No Evil\FearNoEvilGame\Fear No Evil\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\nunit.framework.dll
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\UnityEditor.dll
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\UnityEngine.dll
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\UnityEngine.xml
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\UnityEditor.xml
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\nunit.framework.xml
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\ajcampbell02\Desktop\PP - Fear No Evil\Fear No Evil\obj\Debug\Assembly-CSharp-firstpass.pdb
